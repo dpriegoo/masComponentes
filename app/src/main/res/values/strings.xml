@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">masComponentes</string>
+    <string-array name="colores"> colores
+        <item name="rojo">rojo</item>
+        <item name="verde">verde</item>
+        <item name="azul">azul</item>
+    </string-array>
+</resources>
